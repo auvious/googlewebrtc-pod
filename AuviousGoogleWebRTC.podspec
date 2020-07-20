@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'AuviousGoogleWebRTC'
-  s.version          = '84.4147'
+  s.version          = '84.4147.0'
   s.summary          = 'WebRTC iOS SDK'
 
   s.description      = <<-DESC
