@@ -1,5 +1,5 @@
 /*
- *  Copyright 2019 The WebRTC project authors. All Rights Reserved.
+ *  Copyright 2020 The WebRTC project authors. All Rights Reserved.
  *
  *  Use of this source code is governed by a BSD-style license
  *  that can be found in the LICENSE file in the root of the source
@@ -55,7 +55,6 @@
 #import <WebRTC/RTCFieldTrials.h>
 #import <WebRTC/RTCIceCandidate.h>
 #import <WebRTC/RTCIceServer.h>
-#import <WebRTC/RTCIntervalRange.h>
 #import <WebRTC/RTCLegacyStatsReport.h>
 #import <WebRTC/RTCMediaConstraints.h>
 #import <WebRTC/RTCMediaSource.h>

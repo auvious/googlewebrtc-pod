@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'GoogleWebRTC'
-  s.version          = '1.1.29400'
+  s.version          = '84.4147'
   s.summary          = 'WebRTC iOS SDK'
 
   s.description      = <<-DESC
@@ -18,7 +18,7 @@ WebRTC is a free, open project that provides browsers and mobile applications wi
   s.homepage         = 'https://webrtc.org/'
   s.license          = { :type => 'Multiple', :file => 'LICENSE.md' }
   s.author           = 'The WebRTC project authors'
-  s.source           = { :git => 'https://gitlab.auvious.com/auvious/api/auvious-webrtc-ios.git', :tag => s.version.to_s }
+  s.source           = { :git => 'https://gitlab.auvious.com/auvious/api/googlewebrtc-pod.git', :tag => s.version.to_s }
 
   s.platform = :ios, '10.0'
 
