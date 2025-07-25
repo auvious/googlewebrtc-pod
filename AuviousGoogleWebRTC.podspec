@@ -20,7 +20,7 @@ WebRTC is a free, open project that provides browsers and mobile applications wi
   s.author           = 'The WebRTC project authors'
   s.source           = { :git => 'https://github.com/auvious/googlewebrtc-pod.git', :tag => s.version.to_s }
 
-  s.platform = :ios, '10.0'
+  s.platform = :ios, '13.0'
 
   s.preserve_paths  = [
     'LICENSE.md',
